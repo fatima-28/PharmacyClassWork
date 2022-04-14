@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\bin\Debug\netcoreapp3.1\Task14APRIL.exe
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\bin\Debug\netcoreapp3.1\Task14APRIL.deps.json
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\bin\Debug\netcoreapp3.1\Task14APRIL.runtimeconfig.json
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\bin\Debug\netcoreapp3.1\Task14APRIL.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\bin\Debug\netcoreapp3.1\Task14APRIL.dll
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\bin\Debug\netcoreapp3.1\Task14APRIL.pdb
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.dll
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.pdb
+C:\Users\User\Desktop\New folder (2)\Task14APRIL\Task14APRIL\obj\Debug\netcoreapp3.1\Task14APRIL.genruntimeconfig.cache
